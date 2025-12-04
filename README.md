@@ -14,6 +14,7 @@ English | [中文](./README_CN.md) | [日本語](./README_JA.md)
 [🚀 Live Demo](https://next-ai-drawio.jiang.jp/)
 
 </div>
+For Google, syncflow use gemini  confluent/pubsub for   GCP architecture
 
 A Next.js web application that integrates AI capabilities with draw.io diagrams. Create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 
